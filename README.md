@@ -6,3 +6,8 @@ Objetivos:
 4. Agregar un resumen, en el archivo README.md explicando, lo agregado y en base a que video de la playlist se hizo
 5. añadir una explicacion si se añaden nuevas funcionalidades, templates etc
 6. Iniciarlo U.u
+
+
+*07 de enero 2025*
+
+modelos iniciales creados, se añadieron los campos al modelos post
